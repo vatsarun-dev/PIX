@@ -207,7 +207,8 @@ img {
 /*  Hero Section  */
 
 .hero {
-  position: relative;
+  position: sticky;
+  top: 0;
   height: 100vh;
   min-height: 600px;
   display: flex;
